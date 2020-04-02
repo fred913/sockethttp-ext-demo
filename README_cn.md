@@ -1,5 +1,5 @@
 # sockethttp-ext-demo
-an extension demo for [sockethttp](https://github.com/fred913/sockethttp/)
+[sockethttp](https://github.com/fred913/sockethttp/)的一个简单的扩展程序示例
 
 
 ### Contributor
