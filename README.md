@@ -58,8 +58,5 @@ an extension demo for [sockethttp](https://github.com/fred913/sockethttp/)
    First, `extension.py` is using `exec` and reading file content to execute the extension script, not using `importlib.import_module` or `__import__` . This way will protect the code in the `extension.py` . And the environment is defined in a variable (using `exec` method).
  ----
 
-#### In case of the following situations, submit a pull request or issue:
 
- - Bugs that can cause fatal errors
- - Introduce some new features
 
